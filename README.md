@@ -51,38 +51,7 @@ I bridge the gap between **secure infrastructure** and **reliable automation**. 
 
 ---
 
-## 🚀 Featured Projects
 
-### 🔐 DevSecOps Infrastructure
-**Secure Development Environment Architecture**
-- Architected isolated containerized environments with Docker/Podman
-- Implemented secret management with HashiCorp Vault (zero hardcoded credentials)
-- Built comprehensive monitoring: Prometheus + Grafana + Uptime Kuma
-- Deployed ELK Stack (Filebeat + Logstash) for centralized logging
-- **Impact**: Eliminated configuration drift, reduced incident detection time
-
-### 🌐 ft_transcendence
-**Full-Stack Web Application with Custom Infrastructure**
-- Built complete web application with containerized architecture
-- Developed custom HTTP web server in C++ from scratch
-- Implemented secure authentication and communication protocols
-- Automated deployment pipeline with Docker
-- **Skills**: Full-stack development, containerization, security best practices
-
-### ⚡ Custom Web Server (Webserver Project)
-**Low-Level HTTP Server Implementation**
-- Built high-performance web server in C++ handling concurrent requests
-- Implemented HTTP protocol parsing and socket programming
-- Optimized for multi-threaded request processing
-- **Achievement**: Deep understanding of network protocols and system programming
-
-### 🎮 Cub3D
-**Wolfenstein-Style Game Engine**
-- Created 3D raycasting game engine in C
-- Implemented custom rendering algorithms and game mechanics
-- Showcases algorithmic optimization and graphics programming
-
----
 
 ## 📊 GitHub Stats
 
@@ -97,51 +66,3 @@ I bridge the gap between **secure infrastructure** and **reliable automation**. 
 </div>
 
 ---
-
-## 🏆 Competitive Programming
-
-- 🥇 **CodinGame**: Gold Tier (Top 200-400 globally)
-- 🧩 Advanced problem-solving in algorithms and data structures
-- ⚡ Consistent top performer in optimization challenges
-- 🛡️ **CTF**: Active participant in cybersecurity competitions
-
----
-
-## 🎯 What I'm Looking For
-
-I'm currently seeking:
-- 🔐 **DevSecOps Engineering** roles
-- 🚀 **Infrastructure Automation** positions
-- 🤝 **Open-Source Collaborations** in security tooling
-- 📚 **Internship Opportunities** (March/April 2026)
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Redalamtaoui)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![42 Profile](https://img.shields.io/badge/42_Profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/rlamtaou)
-
----
-
-<div align="center">
-  
-### 💡 "Security is not a product, but a process" - Bruce Schneier
-
-![Profile Views](https://komarev.com/ghpvc/?username=Redalamtaoui&color=58A6FF&style=flat-square)
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/Redalamtaoui">Redalamtaoui</a></i>
-</div>
